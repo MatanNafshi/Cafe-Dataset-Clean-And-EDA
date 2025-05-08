@@ -106,6 +106,6 @@ SELECT * FROM cafe_sales_edited;
 # https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
 # Thank you! feel free to use this file
 # Don't hesitate to contact me via:
-	# Gmail: matannaf@gamil.com
+    # Gmail: matannaf@gamil.com
     # Linkedin: https://www.linkedin.com/in/matan-nafshi
     # Github: Github.com/MatanNafshi
